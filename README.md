@@ -74,14 +74,8 @@ python project.py
 ### Original Image
 ![Original](results/original.png)
 
-### Noisy Image
-![Noisy](results/noisy.png)
-
-### Error Map
-![Error Map](results/error_map.png)
-
-### BER Graph
-![BER Graph](results/ber_graph.png)
+### Output Image(includes reconstructed image, error mapping etc) 
+![Original](results/output.png)
 
 
 
