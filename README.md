@@ -62,18 +62,26 @@ pip install -r requirements.txt
 ### 3. Run Project
 
 ```bash
-python main.py
+python project.py
 ```
 
 
 
 ## 📊 Output
 
-* Original Image
-* Noisy/Reconstructed Image
-* Error Map
-* Error Highlight Image
-* BER vs Noise Probability Graph
+## 📊 Results
+
+### Original Image
+![Original](results/original.png)
+
+### Noisy Image
+![Noisy](results/noisy.png)
+
+### Error Map
+![Error Map](results/error_map.png)
+
+### BER Graph
+![BER Graph](results/ber_graph.png)
 
 
 
