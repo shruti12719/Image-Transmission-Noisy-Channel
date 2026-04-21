@@ -72,7 +72,7 @@ python project.py
 ## 📊 Results
 
 ### Original Image
-![Original](results/original.png)
+![Original](results/original.jpg)
 
 ### Output Image(includes reconstructed image, error mapping etc) 
 ![Original](results/output.png)
